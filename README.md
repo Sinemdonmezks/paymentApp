@@ -1,0 +1,2 @@
+# paymentApp
+Monolitik mimari proje
